@@ -1,0 +1,32 @@
+# Manifesto de arquivos
+
+- `.agents/skills/administrative-processes/SKILL.md`
+- `.agents/skills/aizen-router/SKILL.md`
+- `.agents/skills/automation-engineer/SKILL.md`
+- `.agents/skills/codex-vscode-workflow/SKILL.md`
+- `.agents/skills/data-analysis/SKILL.md`
+- `.agents/skills/data-cleaning/SKILL.md`
+- `.agents/skills/document-analysis/SKILL.md`
+- `.agents/skills/excel-workbook-engineer/SKILL.md`
+- `.agents/skills/file-organization/SKILL.md`
+- `.agents/skills/financial-analysis/SKILL.md`
+- `.agents/skills/github-delivery/SKILL.md`
+- `.agents/skills/inventory-operations/SKILL.md`
+- `.agents/skills/itachi-release-gate/SKILL.md`
+- `.agents/skills/pdf-ocr/SKILL.md`
+- `.agents/skills/powerbi-engineer/SKILL.md`
+- `.agents/skills/python-automation/SKILL.md`
+- `.agents/skills/sql-engineer/SKILL.md`
+- `AGENTS.md`
+- `AIZEN_MAP.md`
+- `CHANGELOG.md`
+- `DECISIONS_TO_CONFIRM.md`
+- `PROJECT_INSTRUCTIONS.md`
+- `README.md`
+- `SKILL_REGISTRY.md`
+- `TOOL_FALLBACK.md`
+- `references/TESTING_GUIDE.md`
+- `scripts/project_selfcheck.py`
+- `scripts/workbook_healthcheck.py`
+- `templates/DELIVERY_REPORT.md`
+- `tests/ACCEPTANCE_TESTS.md`
